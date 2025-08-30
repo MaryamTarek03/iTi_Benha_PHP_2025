@@ -13,13 +13,31 @@ The ITI Benha Full Stack PHP Development Track is a comprehensive program coveri
 
 ## Projects
 
-### [Portfolio](Projects/Portfolio)
+### Personal Portfolio Using HTML & CSS Only
+[**Demo**](https://maryamtarek03.github.io/iTi_Benha_PHP_2025/Projects/Portfolio/) | 
+[**Source Code**](Projects/Portfolio) <br>
 My personal portfolio website project showcasing my skills, projects, and professional journey.
-- **Technologies**: HTML, CSS, JavaScript
+<img width="1790" height="963" alt="image" src="https://github.com/user-attachments/assets/2173b367-d0cd-4f73-a072-e56f93c85e72" />
+- **Technologies**: HTML, CSS
 - **Features**: Responsive design, project showcase, contact form
 - **Status**: Completed
 
-<!-- more projects -->
+### To-Do App Using Vanilla JavaScript
+[**Demo**](https://maryamtarek03.github.io/iTi_Benha_PHP_2025/Projects/ToDo_App/) | 
+[**Source Code**](Projects/ToDo_App) <br>
+Simple To-Do app with keyboard navigation and local storage.
+<img width="1800" height="968" alt="image" src="https://github.com/user-attachments/assets/bfc5fb4f-490f-4d0e-b4b5-ebadcdb9635c" />
+- **Technologies**: HTML, CSS, JavaScript
+- **Features**: Responsive design, local storage, keyboard navigation
+- **Status**: Core Features Completed (Still in progress)
+
+### Products CRUD App Using Vanilla PHP & MVC Pattern
+[**Source Code**](Projects/php-basic-crud) <br>
+Basic CRUD operations on a simple products table, empowered by the use of the MVC pattern  
+<img width="1638" height="879" alt="image" src="https://github.com/user-attachments/assets/d2075a76-3a1c-43e2-a41e-7971a79f1246" />
+- **Technologies**: HTML, CSS, PHP
+- **Features**: Database integeration, MVC pattern, simple clean look
+- **Status**: Completed
 
 ## Skills Developed
 
