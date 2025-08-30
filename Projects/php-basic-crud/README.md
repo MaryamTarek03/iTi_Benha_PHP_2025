@@ -62,5 +62,6 @@ Enjoy exploring the project!
 ## Screenshots
 <img width="1638" height="879" alt="image" src="https://github.com/user-attachments/assets/3ca524cd-6a16-4b13-8b1c-1e0a14ea977e" />
 <img width="1638" height="879" alt="image" src="https://github.com/user-attachments/assets/e1fc9408-8933-4bdc-9278-29c5b95ebb91" />
+<img width="1638" height="879" alt="image" src="https://github.com/user-attachments/assets/a56ecc6d-61a3-4283-9023-b8856c641b28" />
 <img width="1638" height="879" alt="image" src="https://github.com/user-attachments/assets/b3b1e433-7dee-465a-b3f0-617863adf0dd" />
 <img width="1638" height="879" alt="image" src="https://github.com/user-attachments/assets/dbe2e8be-ef4a-4c04-ae76-ca31827e70af" />
