@@ -31,7 +31,7 @@ class BookController extends Controller
     {
         $book = $request->all();
         Book::create($book);
-        return $this->index();
+        return to_route('books.index')->with('success', 'Book added successfully.');
     }
 
     public function search()
@@ -55,29 +55,5 @@ class BookController extends Controller
     {
         $book = Book::findOrFail($id);
         return view('books.show', ['book' => $book]);
-    }
-
-    /**
-     * Show the form for editing the specified resource.
-     */
-    public function edit(BookController $book)
-    {
-        //
-    }
-
-    /**
-     * Update the specified resource in storage.
-     */
-    public function update(Request $request, BookController $book)
-    {
-        //
-    }
-
-    /**
-     * Remove the specified resource from storage.
-     */
-    public function destroy(BookController $book)
-    {
-        //
     }
 }

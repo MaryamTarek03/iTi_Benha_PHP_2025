@@ -4,7 +4,6 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
     <title>{{ config('app.name', 'Laravel') }}</title>
 
     <!-- Fonts -->
@@ -27,7 +26,9 @@
         <x-nav-link href="/contact" :active="request()->is('contact')">Contact</x-nav-link>
         <x-nav-link href="/patients" :active="request()->is('patients')">Patients</x-nav-link>
         <x-nav-link href="/books" :active="request()->is('books')">Books</x-nav-link>
+        <x-nav-link href="{{ route('notes') }}" :active="request()->is('notes')">Notes</x-nav-link>
         <x-nav-link href="/lab_02" :active="Route::is('products')">Products</x-nav-link>
+        
     </nav>
     <div class="flex items-center justify-center w-full transition-opacity opacity-100 duration-750 lg:grow starting:opacity-0">
         <main class="flex max-w-[335px] w-full flex-col-reverse lg:max-w-4xl lg:flex-row">
